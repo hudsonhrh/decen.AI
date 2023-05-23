@@ -1,6 +1,6 @@
 # Decen.AI
 
-Developing a fully open-source decentralized artificial intelligence system that is governed by the community. This is a step-by-step guide on how we plan to achieve this, and we invite you to join us in this exciting journey.
+Developing a fully open-source Decentralized Artificial Intelligence (DAI) system that is governed by the community. This is a step-by-step guide on how we plan to achieve this, and we invite you to join us in this exciting journey.
 
 ## Phase 1: Building a Basic AI agent that interfaces with Blockchain
 
